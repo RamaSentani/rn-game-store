@@ -1,2 +1,2 @@
-# rn-game-store
+# Game Store
 React Native app for game store
